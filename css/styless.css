@@ -397,6 +397,7 @@ footer address {
 
 .btn-port:hover,
 .btn-port:focus {
+	cursor: pointer;
 	color: #ffffff;
 	background: #188ce8;
 }
