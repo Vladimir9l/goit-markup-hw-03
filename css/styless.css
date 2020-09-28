@@ -406,7 +406,6 @@ footer address {
 .choice-list {
 	display: flex;
 	justify-content: center;
-	margin-bottom: 50px;
 }
 
 .choice-list-item + .choice-list-item {
