@@ -74,7 +74,7 @@ header address li:not(:last-child) {
 	margin-bottom: 0;
 }
 
-.navigation-list-item .address-list-item .link {
+.navigation-list-item .link {
 	display: block;
 	padding-top: 32px;
 	padding-bottom: 32px;
