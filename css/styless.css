@@ -252,6 +252,15 @@ header address li:not(:last-child) {
 	color: #212121;
 }
 
+.our-work {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.167;
+	text-align: center;
+	letter-spacing: 0.03em;
+	margin-bottom: 50px;
+}
+
 .team-list-item {
 	width: 270px;
 }
