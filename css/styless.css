@@ -80,6 +80,12 @@ header address li:not(:last-child) {
 	padding-bottom: 32px;
 }
 
+.address-list-item {
+	display: block;
+	padding-top: 32px;
+	padding-bottom: 32px;
+}
+
 .container {
 	width: 1200px;
 	margin-left: auto;
